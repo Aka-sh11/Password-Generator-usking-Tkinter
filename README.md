@@ -10,4 +10,4 @@
 
 ### Application to generate random passwords.
 
-![](output/passgen.png)
+![](output/passGen.png)
