@@ -24,7 +24,6 @@ def gen_pass():
     password_entry.insert(0, password)
 
 
-
 def save():
     website = website_entry.get()
     email = email_entry.get()
